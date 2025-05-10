@@ -1,0 +1,41 @@
+.buttonStyleSignup {
+
+    background-color: black;
+    cursor: pointer;
+
+}
+
+
+.radioContainer {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+
+}
+
+.radio1 {
+
+    margin-top: 12px;
+
+}
+
+.labelRadio {
+
+    margin-top: 13px;
+
+}
+
+.successStyle {
+
+    margin-top: 2em;
+
+}
+
+
+.errorStyle {
+
+    margin-top: 2em;
+
+}
